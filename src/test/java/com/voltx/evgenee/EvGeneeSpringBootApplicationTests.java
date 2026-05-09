@@ -1,4 +1,4 @@
-package com.voltx.evgenee_springboot;
+package com.voltx.evgenee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
