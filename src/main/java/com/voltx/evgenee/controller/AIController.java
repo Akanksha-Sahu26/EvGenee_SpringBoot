@@ -14,9 +14,6 @@ public class AIController {
 
     private final AIService aiService;
 
-    /**
-     * Chat with AI Voice Assistant
-     */
     @PostMapping("/chat")
     public ResponseEntity<MessageResponseDto> chat(
             @RequestBody MessageRequestDto requestDto) {
